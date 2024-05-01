@@ -1,0 +1,6 @@
+name: "Minishell CI/CD Integration"
+description: "Regression testing your minishell"
+author: "Lea Yeh"
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

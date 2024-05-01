@@ -4,3 +4,6 @@ author: "Lea Yeh"
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  color: blue
+  icon: git-pull-request
